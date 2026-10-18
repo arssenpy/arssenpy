@@ -1,4 +1,4 @@
-### Hi, I'm Arsen — a full-stack developer from Ukraine
+### Hi, I'm Arsen — a full-stack developer
 
 I build web products end to end with **Next.js, React, Node.js and PostgreSQL/Supabase**, and I ship them to production.
 I work AI-first with Claude Code: I own the product decisions, architecture and code review; the AI speeds up the typing.
